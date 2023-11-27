@@ -355,6 +355,16 @@ PRODUCT_PACKAGES += \
     ForlornWiFiOverlay \
     PlumpyWiFiOverlay
 
+# Volume Styles
+PRODUCT_PACKAGES += \
+    VolumeDoubleLayer \
+    VolumeGradient \
+    VolumeNeumorph \
+    VolumeNeumorphOutline \
+    VolumeOutline \
+    VolumeShadedLayer \
+    VolumeAOSPRevamped
+
 # Themes
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
