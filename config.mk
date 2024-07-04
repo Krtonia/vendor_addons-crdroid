@@ -329,6 +329,10 @@ PRODUCT_PACKAGES += \
 
 # WiFi Icons
 PRODUCT_PACKAGES += \
+    AiirOWiFiOverlay \
+    BoldWiFiOverlay \
+    SharpWiFiOverlay \
+    CapsuleWiFiOverlay \
     BarsWiFiOverlay \
     DoraWiFiOverlay \
     GradiconWiFiOverlay \
@@ -337,14 +341,16 @@ PRODUCT_PACKAGES += \
     RoundWiFiOverlay \
     SneakyWiFiOverlay \
     StrokeWiFiOverlay \
+    SpiralWiFiOverlay \
     WavyWiFiOverlay \
     WeedWiFiOverlay \
     XperiaWiFiOverlay \
     ZigZagWiFiOverlay \
-	AuroraWiFiOverlay \
-	FaintUIWiFiOverlay \
-	ForlornWiFiOverlay \
-	PlumpyWiFiOverlay
+    WindyWiFiOverlay \
+    AuroraWiFiOverlay \
+    FaintUIWiFiOverlay \
+    ForlornWiFiOverlay \
+    PlumpyWiFiOverlay
 
 # Themes
 PRODUCT_PACKAGES += \
