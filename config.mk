@@ -346,6 +346,9 @@ PRODUCT_PACKAGES += \
     WeedWiFiOverlay \
     XperiaWiFiOverlay \
     ZigZagWiFiOverlay \
+    LinealSignalOverlay \
+    LinearSignalOverlay \
+    MicroWaveSignalOverlay \
     WindyWiFiOverlay \
     AuroraWiFiOverlay \
     FaintUIWiFiOverlay \
